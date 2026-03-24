@@ -34,7 +34,7 @@ Kliknij ten plik zacznie się on pobierać
 
 ### Krok 2
 
-Kliknij **2 razy** w plik
+Kliknij **2 razy** w plik na dysku komputera (najczęściej znajduje się on w pobranych)
 
 ### Krok 3
 
