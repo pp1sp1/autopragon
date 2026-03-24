@@ -20,11 +20,17 @@ Program jest przygotowany tak, żeby:
 
 ## 3. Uruchomienie programu (PC)
 
-### Krok 1
+### Krok 1 Pobranie programu z github
+Otwórz przeglądarkę internetową (np. Chrome, Firefox)
+Wejdź na stronę projektu (github) → poproś osobę, od której masz program, o link
+Na stronie znajdź zakładkę: → Releases (po prawej stronie)
+Kliknij Releases, znajdź najnowszą wersję (na samej górze)
 
-Pobierz plik programu:
+W sekcji "Assets" znajdź plik:
 
-➡ `autoparagon.exe`
+→ `autoparagon.exe`
+
+Kliknij ten plik zacznie się on pobierać
 
 ### Krok 2
 
